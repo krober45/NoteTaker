@@ -1,6 +1,7 @@
 # Note Taking App built on Express
 A note taking application built with an express backend and deployed on Heroku.
 
+](https://kharis-note-taker.herokuapp.com/)
 ## Technologies Used
 * Javascript
 * HTML/CSS
